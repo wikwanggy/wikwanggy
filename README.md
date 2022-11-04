@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"> kakao : https://open.kakao.com/o/sJxzFBEe
 
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> insta : https://www.instagram.com/calix_98/
+
+<img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> naver :
+https://blog.naver.com/hyye0913

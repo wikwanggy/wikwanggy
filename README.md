@@ -39,8 +39,8 @@ https://blog.naver.com/hyye0913
 
 💬현재 Python 공부 및 개인 프로젝트 구현 중
 
--Python
-1)점프 Do it 파이썬 교제 완료
+-Python<br><br>
+1)점프 Do it 파이썬 교제 완료<br>
 2)이것이 데이터 분석이사 with Python
 
 개인 프로젝트 구상

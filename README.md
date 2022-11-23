@@ -35,3 +35,19 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> naver :
 https://blog.naver.com/hyye0913
+
+
+💬현재 Python 공부 및 개인 프로젝트 구현 중
+
+-Python
+1)점프 Do it 파이썬 교제 완료
+2)이것이 데이터 분석이사 with Python
+
+개인 프로젝트 구상
+
+1) 개인 포트폴리오 사이트 
+   1) 개인 소개 및 SNS 연락처
+   2) 본인이 사용할 수 있는 언어 나열
+   3) 포트폴리오 리스트 
+   4) 개인 정보 
+   5) 앞으로의 다짐

@@ -42,6 +42,10 @@ https://blog.naver.com/hyye0913
 
 📗취업 후 정리는 <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"> 에 할 예정
 
+🖥️ 현 회사에서 사용 중인 개발언어 C#(개발 유지보수 업무)
+
+
+
 📃Python<br><br>
 
 📕1)점프 Do it 파이썬 교제 완료<br>

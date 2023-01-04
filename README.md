@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> naver :
 https://blog.naver.com/hyye0913
 
+ <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"> T-story :  https://wkg0610.tistory.com/
 
 📗현재 Python 공부 및 개인 프로젝트 구현 중
 

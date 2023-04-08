@@ -38,11 +38,11 @@ https://blog.naver.com/hyye0913
 
  <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"> T-story :  https://wkg0610.tistory.com/
 
-📗현재 현대중공업 현대정보서비스 제직 중 
+📗현재 현대중공업 현대정보서비스 제직 중 (2023-01-03 ~~~~~~~)
 
-📗취업 후 정리는 <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"> 에 할 예정
 
-🖥️ 현 회사에서 사용 중인 개발언어 C#(개발 유지보수 업무)
+
+🖥️ 현 회사에서 사용 중인 개발언어 C#(엔진기계디지털ICT팀 BOM 업무)
 
 
 

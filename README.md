@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 </div>
  <br><br>
  <div>
-🌱백엔드 언어🌱 
+🌱백엔드 언어🌱 <br><br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=pythont&logoColor=white">
  </div>
  <br><br>
  <div>
-📫툴📫 
+📫툴📫 <br><br>
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 </div>
  <br><br>
 <div>
- 👯데이터베이스👯 
+ 👯데이터베이스👯 <br><br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>

@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=pythont&logoColor=white">
 <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 
+DB
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 💬커뮤니티 <br><br>
 <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"> kakao : https://open.kakao.com/o/sJxzFBEe

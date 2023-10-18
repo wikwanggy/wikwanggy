@@ -58,8 +58,8 @@ https://blog.naver.com/hyye0913
 <br>
 현대중공업 경영본관 디지털혁신팀<br>
 1. 공통업무포탈 유지보수<br>
-2. ESG 경영플랫폼 개발
-<br><br>
+2. ESG 프로그램 개발
+3. <br><br>
 
 
 

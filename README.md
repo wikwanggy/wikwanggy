@@ -63,7 +63,8 @@ https://blog.naver.com/hyye0913
 
 
 
-📃그린컴퓨터 아카데미 <br>
+📃그린컴퓨터 아카데미 <br><br>
+
 교육 명 : 특화_Python 분석 풀스택 JAVA 프론트엔드 + 백엔스 풀스택 양성과정<br><br>
 
 📕1)점프 Do it 파이썬 교제 완료<br>
